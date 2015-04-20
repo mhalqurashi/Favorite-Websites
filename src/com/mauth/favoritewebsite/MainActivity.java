@@ -2,7 +2,7 @@
 File name: MainAcitivty.java
 Author: Muath Alqurashi
 Email Address: mhalqurashi@suffolk.edu
-Last day of modification: Mar 10, 2015
+Last day of modification: Mar 20, 2015
 Description: This app let users save their favorite websites. 
 */
 package com.mauth.favoritewebsite;
